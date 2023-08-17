@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+h3{
+	text-align: center;
+}
+
+table{
+	width: 100%;
+	cellpadding: 1px;
+	spacing: 1px;
+}
+
+table, td{
+	border: 1px solid black;
+}
+
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+.centre{
+	text-align: center;
+}
+
+#table-2{
+	height: 125px;
+}
+
+#t-image{
+	text-align: center;
+	height: 130px;
+}
+
+#table-3{
+	height: 200px;
+}
+
+img{
+	height: 100%;
+}
+
+
+
